@@ -1,6 +1,6 @@
 # Receding-Horizon Games with Tullock-Based Profit Functions for Electric Ride-Hailing Markets
 
-**The 63rd IEEE Conference on Decision and Control (CDC 2024)**, Milan, Italy, 16-19 December 2024
+**The 63rd IEEE Conference on Decision and Control (CDC 2024)**, Milan, Italy, 16-19 December 2024.
 
 **Abstract:** This paper proposes a receding-horizon, game-
 theoretic charging planning mechanism for electric ride-hailing
